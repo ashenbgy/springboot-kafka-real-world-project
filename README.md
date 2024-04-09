@@ -1,4 +1,4 @@
-Spring Boot + Apache Kafka
+**Spring Boot + Apache Kafka**
   Use Apache Kafka as a broker to exchange messages between Producer and Consumer in Spring Boot Application, using Wikimedia recent changes Event Stream Data.
 
 Technical Implementation
