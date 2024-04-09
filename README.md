@@ -8,15 +8,15 @@
       + Module 2: kafka-producer-wikimedia
     - Create two Microservices
   
-  **Producer**
+  ** 1. Producer**
     - Configure Wikimedia Producer multi-level module and Create a Kafka Topic
     - Implement Event Handler in Producer module
     - Run and Test Wikimedia Producer Application
-  **Consumer**
+  ** 2. Consumer**
     - Configure Kafka Consumer
     - Implement Kafka Listener for a topic with groupId
     - Run and Test Consumer Application
-  **MySql Database**
+  ** 3. MySql Database**
     - Configure DB in application properties of Consumer and Producer Applications
     - Create Entity and JPA Repository
     - Save Wikimedia Data into MySQL Database
