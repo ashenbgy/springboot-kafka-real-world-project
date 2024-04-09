@@ -3,11 +3,11 @@
 Use Apache Kafka as a broker to exchange messages between Producer and Consumer in Spring Boot Application, using Wikimedia recent changes Event Stream Data.
 
 Technical Implementation
-    Install and setup Apache Kafka
-    Create and setup multi-module Spring Boot project
-        Module 1: kafka-consumer-database
-        Module 2: kafka-producer-wikimedia
-    Create two Microservices
+    *  Install and setup Apache Kafka
+    *  Create and setup multi-module Spring Boot project
+        *  Module 1: kafka-consumer-database
+        *  Module 2: kafka-producer-wikimedia
+    *  Create two Microservices
   
     1. Producer
         Configure Wikimedia Producer multi-level module and Create a Kafka Topic
